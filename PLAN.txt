@@ -178,7 +178,53 @@ priklad u mne na gitu v adresari Kolekce - jsou tam i testy
 ArrayList doplnen do projektu zakladyoop_rozsireni_trid kolekce
 javaFX Hello world 20.1-doma-kurz - dodelat
 
+->9.2.
+up to now nezaznamenane procvicovani a uceni predevsim bez IDE
 
+9.2
+exekuce testu na startup - ani jeden nedojel do konce kvuli bugu
+procvicovani junity a webdriveru - opakovani tutorialu
+koukani/uceni functor - objekt jako funkce, java je prej nema... 
+pise se to: 
+From every-time checks, to Functors, to Java 8 Lambdas (sort of)
+The problem
+Take this example class, which adapts an Appendable into a Writer:
 
+   import  java.io.Closeable;
+   import  java.io.Flushable;
+   import  java.io.IOException;
+   import  java.io.Writer;
+   import  java.util.Objects;
+/**
+   <P>{@code java WriterForAppendableWChecksInFunc}</P>
+ **/
+public class WriterForAppendableWChecksInFunc extends Writer  {
+   private final Appendable apbl;
+   public WriterForAppendableWChecksInFunc(Appendable apbl)  {
+      if(apbl == null)  {
+         throw  new NullPointerException("apbl");
+      }
+      this.apbl = apbl;
+   }
+
+      //Required functions, but not relevant to this post...START
+         public void write(char[] a_c, int i_ndexStart, int i_ndexEndX) throws IOException {
+         public Writer append(char c_c) throws IOException {
+         public Writer append(CharSequence text) throws IOException {
+         public Writer append(CharSequence text, int i_ndexStart, int i_ndexEndX) throws IOException  {
+      //Required functions, but not relevant to this post...END
+
+   public void flush() throws IOException {
+      if(apbl instanceof Flushable)  {
+         ((Flushable)apbl).flush();
+      }
+   }
+   public void close() throws IOException {
+      flush();
+      if(apbl instanceof Closeable)  {
+         ((Closeable)apbl).close();
+      }
+   }
+}
 
 
