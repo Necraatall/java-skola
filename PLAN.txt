@@ -259,6 +259,7 @@ Mlada mi zere cim dal tim vic casu a prvni napor vasne opadal z me strany - je a
 javaFX - pokud bude cas v nedeli, tak budu pokracovat - zajimalo by mne jak se dela focus na option buttonech a dalsich prvcich s aplikovanim tab key pro preskakovani a aktivaci za pomoci sipek kurzoru a mezerniku
 - bylo by zajimave to skloubit s nejakym enginem na hry
 
-
-
+kouknout na 
+https://cw.fel.cvut.cz/wiki/courses/b0b36pjv/prednasky
+pokud je to dobre podany
 
