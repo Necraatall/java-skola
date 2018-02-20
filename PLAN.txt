@@ -254,7 +254,10 @@ na c cokoliv, na klon c c++ c# taky, klidne i javascript, ale java je v tomto ou
 hry co jsou delany v jave nevypadaji ze by byly v nejakem enginu. 
 kazdy ctvrtek se otvira kurz pythonu... 
 budud o nem uvazovat od budoucna kvuli moznosti vyssich prijmu v deutche buerse klidne i 6k na MD - nyni vsak muzu mit s obema pracema klidne i stejne. 
+Mlada mi zere cim dal tim vic casu a prvni napor vasne opadal z me strany - je asi na case tento rok zmenit vozovy park.
 
+javaFX - pokud bude cas v nedeli, tak budu pokracovat - zajimalo by mne jak se dela focus na option buttonech a dalsich prvcich s aplikovanim tab key pro preskakovani a aktivaci za pomoci sipek kurzoru a mezerniku
+- bylo by zajimave to skloubit s nejakym enginem na hry
 
 
 
