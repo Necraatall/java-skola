@@ -227,4 +227,35 @@ public class WriterForAppendableWChecksInFunc extends Writer  {
    }
 }
 
+20.2.2018 - doma
+dnes jsem uz aspon po 3. musel nechat skolu kvuli 1. praci po pul sedmy prijit domu a pak s kompem pul hodina cesty unavenej je k nicemu. 
+Asi budu muset prubnout zase nejake doucovani pres itstep a tam si programovat, nebo to resit pres nejakeho z byvalych kolegu. 
+Asi bude nutno se domluvit na nejakem individualu ci ukonceni - skoda ze neni pouze v nedeli!!! 
+Od posledne jsem si zkousel v praci na kompu webdriver testy - nektere byly ok, 
+ale jine po mne chtely tak, ze bych se pod ne nepodepsal - obecne aby tomu rozumel businessak WTF!!!
+V praci neni mozno, a kvuli NDA, tyto data postnout do gitu sem. 
+V 2. praci budu testovat sitove veci system:
+nekdo hlasi helpdesku ze mu nejde komp.
+bud ma povoleno prijimat nase hacky ci to musi za pomoci helpdesku povolit
+po te zacne ping, diagnoza kompu - 
+pouzite jazyky a technologie:
+powershell
+batch
+Python - ten se take budu muset kvuli automatizacim doucit
+jsem zralej dat si pul roku volna veci ohledne uceni se kompu uz mne skoro netahnou a to volno uz planuju 3 roky... 
+owasp cteni pomalu pokracuje - je treba se naucit burpy a nejlepe i dalsi veci z kali linux
+po precteni pak rici typkovi a on mi nahodi testovaci stranky - bohuzel bez soap/rest sluzeb
+budu mit na to mesic a mam zjistit co nejvice der a chyb
+standartne na to maji penetracni testeri 5-10 dni
+kazdy se tam pak specializuje na neco jineho... 
+2. prace co mam jako castecnej, by se dala delat i jako cybernomad... zda se
+asi si najdu nejakej tutos na hru a zacnu ji programovat, problem je s enginem... 
+na c cokoliv, na klon c c++ c# taky, klidne i javascript, ale java je v tomto out. 
+hry co jsou delany v jave nevypadaji ze by byly v nejakem enginu. 
+kazdy ctvrtek se otvira kurz pythonu... 
+budud o nem uvazovat od budoucna kvuli moznosti vyssich prijmu v deutche buerse klidne i 6k na MD - nyni vsak muzu mit s obema pracema klidne i stejne. 
+
+
+
+
 
