@@ -263,3 +263,7 @@ kouknout na
 https://cw.fel.cvut.cz/wiki/courses/b0b36pjv/prednasky
 pokud je to dobre podany
 
+GAME
+https://www.lwjgl.org/guide
+asi ale reusenu objekty z nejake jine hry - zalezi co to pozere
+
